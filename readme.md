@@ -1,4 +1,4 @@
-MemCached based View Cache for Agile Toolkit
+View Cache for Agile Toolkit (for Memcached)
 ====
 
 If you run a busy site with complex view objects, it's likely you would want to render them and keep them in cache instead. Agile Toolkit comes with no built-in caching mechanisms for view, however this simple add-on will add you exactly this functionality.
